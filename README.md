@@ -1,5 +1,3 @@
---
-
 # AIMail – Python Gmail Cleanup Tool
 
 A minimal Gmail utility designed to help automatically review and clean unwanted emails from your inbox, with optional AI-powered detection.
